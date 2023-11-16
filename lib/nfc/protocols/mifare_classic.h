@@ -1,6 +1,6 @@
 ﻿#pragma once
 
-#include <lib/nfc/protocols/iso14443_3a/iso14443_3a.h>
+#include <lib/nfc/protocols/iso14443_3a.h>
 
 #ifdef __cplusplus
 extern "C" {
