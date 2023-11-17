@@ -1,5 +1,5 @@
 #include "../../lib/parity/parity.h"
-#include <lib/nfc/protocols/mifare_classic.h>
+#include "FlipperNested/lib/nfc/protocols/mifare_classic.h
 #include <lib/nfc/protocols/crypto1.h>
 #include "stddef.h"
 
