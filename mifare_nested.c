@@ -225,7 +225,9 @@ MifareNested* mifare_nested_alloc() {
         mifare_nested->view_dispatcher, mifare_nested_tick_event_callback, 100);
 
     // Nfc device
-    mifare_nested->nfc_dev = nfc_device_alloc();
+
+    mifare_nested->nfc_dev = nfc_init();
+
 
     // Open GUI record
     mifare_nested->gui = furi_record_open(RECORD_GUI);
