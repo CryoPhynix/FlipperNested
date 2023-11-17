@@ -1,6 +1,6 @@
 #include "../../lib/parity/parity.h"
 #include "FlipperNested/lib/nfc/protocols/mifare_classic.h
-#include "FlipperNested/lib/nfc/protocols/crypto1.h"
+#include "FlipperNested/lib/crypto1.h"
 #include "stddef.h"
 
 #define LF_POLY_ODD (0x29CE5C)
