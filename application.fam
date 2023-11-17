@@ -18,7 +18,7 @@ App(
         Lib(name="crypto1")
     ],
     fap_icon_assets="assets",
-    fap_author="AloneLiberty",
+    fap_author="AloneLiberty, CryoPhynix",
     fap_description="Recover Mifare Classic keys",
     fap_weburl="https://github.com/AloneLiberty/FlipperNested",
     fap_version="1.5.2"

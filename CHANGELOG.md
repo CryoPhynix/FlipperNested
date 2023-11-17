@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.5.2
+Added necessary headers for NFC refactor 
+
 ## 1.5.1
 
 Fix wrong invalid/skipped keys count
